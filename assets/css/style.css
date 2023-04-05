@@ -222,6 +222,13 @@
     margin-bottom: 0%;
 }
 
+.vid{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: dashed;
+    text-transform: capitalize;
+}
 
 
 .video{
@@ -244,7 +251,9 @@
 
 .caractA{
     padding-bottom: 20px;
+    padding: 25px 60px 55px 60px;
     margin-bottom: 0px;
+    text-align: justify;
 }
 
 .comoVerla{
@@ -313,6 +322,8 @@
     color: aliceblue;
     margin: 0;
     padding: 25px;
+    padding-left: 60px;
+    padding-right: 60px;
     padding-bottom: 25px;
 }
 
@@ -334,6 +345,7 @@
 .ulV{
     padding: 25px;
     margin-bottom: 0;
+    padding: 0 60px 60px 60px;
 }
 
 .footer{
